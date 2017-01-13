@@ -22,3 +22,4 @@ Partly cloudy        Orem     32 Degrees   10:00 am
 Slightly cloudy      Orem     34 Degrees   11:00 am
 Mostly clear         Orem     34 Degrees   12:33 pm
 Clear               Sp. Fork  34 Degrees    1:30 pm
+Clear               Sp. Fork  34 Degrees    2:30 pm
