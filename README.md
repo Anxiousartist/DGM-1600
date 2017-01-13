@@ -7,3 +7,4 @@ White fluffy snow    Orem          ?       11:30 am
 Light Snow           Orem     28 Degrees    1:20 pm
 Rain/snow mix       Sp. Fork  30 Degrees    2:00 pm
 Overcast            Sp. Fork  36 Degrees    3:16 pm
+Overcast            Sp. Fork  36 Degrees    4:16 pm
