@@ -15,3 +15,4 @@ Overcast/fog        Sp. Fork  36 Degrees    8:39 pm
 Overcast/fog        Sp. Fork  32 Degrees    9:49 pm
 Overcast/fog        Sp. Fork  32 Degrees   10:28 pm
 Light rain/fog      Sp. Fork  32 Degrees   11:08 pm
+Foggy               Sp. Fork  30 Degrees    7:10 am
