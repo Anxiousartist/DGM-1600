@@ -19,3 +19,4 @@ Foggy               Sp. Fork  30 Degrees    7:10 am
 Partly cloudy       Sp. Fork  30 Degrees    8:21 am
 Partly cloudy        Orem     32 Degrees    9:30 am
 Partly cloudy        Orem     32 Degrees   10:00 am
+Slightly cloudy      Orem     34 Degrees   11:00 am
