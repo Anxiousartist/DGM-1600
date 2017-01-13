@@ -10,4 +10,4 @@ Overcast            Sp. Fork  36 Degrees    3:16 pm
 Overcast            Sp. Fork  36 Degrees    4:16 pm
 Overcast/windy      Sp. Fork  36 Degrees    5:16 pm
 Overcast            Sp. Fork  36 Degrees    6:16 pm
-Overcase/fog        Sp. Fork  36 Degrees    7:16 pm
+Overcast/fog        Sp. Fork  36 Degrees    7:16 pm
