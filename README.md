@@ -17,3 +17,4 @@ Overcast/fog        Sp. Fork  32 Degrees   10:28 pm
 Light rain/fog      Sp. Fork  32 Degrees   11:08 pm
 Foggy               Sp. Fork  30 Degrees    7:10 am
 Partly cloudy       Sp. Fork  30 Degrees    8:21 am
+Partly cloudy        Orem     32 Degrees    9:30 am
