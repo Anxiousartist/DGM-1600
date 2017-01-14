@@ -25,3 +25,4 @@ Clear               Sp. Fork  34 Degrees    1:30 pm
 Clear               Sp. Fork  34 Degrees    2:30 pm
 Clear               Sp. Fork  34 Degrees    3:45 pm
 Cloudy              Sp. Fork  34 Degrees    4:30 pm
+Cloudy              Sp. Fork  33 Degrees    5:30 pm
