@@ -1,6 +1,7 @@
 # DGM-1600
 New repository--old DGM 1600 is bugged
 Weather condition    City    Temperature    Time
+Light snow          Sp. Fork  26 Degrees    7:30 am
 Heavy snow          Sp. Fork  28 Degrees    8:30 am
 Rain/snow mix        Orem     28 Degrees    9:00 am
 White fluffy snow    Orem          ?       11:30 am
